@@ -6,15 +6,9 @@ The projects in this repository are on machine learning, big data, computer visi
 - Built classification models using SVM and KNN for detecting leaks in South Korea's water supply system. The models were evaluated through confusion matrices,
 accuracy, precision, and recall.
 # Big Data: 
-• Developed a linear regression model to predict used car prices based on year,
-mileage, engine power, and transmission type, achieving ~90% accuracy, with
-recommendations for future improvement.
+- Developed a linear regression model to predict used car prices based on year,mileage, engine power, and transmission type, achieving ~90% accuracy, with recommendations for future improvement.
 # Data Structure and Algorithm: 
-• Implemented a genetic algorithm to solve the Traveling Salesman Problem
-(TSP), comparing performance with a greedy algorithm and optimizing solutions
-using real-world data.
-• Implemented the A* algorithm to optimize flight routes between Jeju and Gimpo
-international airports, ensuring safe and efficient flight operations under varying
-weather conditions.
+- Implemented a genetic algorithm to solve the Traveling Salesman Problem (TSP), comparing performance with a greedy algorithm and optimizing solutions using real-world data.
+- Implemented the A* algorithm to optimize flight routes between Jeju and Gimpo international airports, ensuring safe and efficient flight operations under varying weather conditions.
 # Computer Vision: 
-• Breast cancer detection of Mammogram images using Hybrid model Xception+ViT
+- Breast cancer detection of Mammogram images using Hybrid model Xception+ViT
