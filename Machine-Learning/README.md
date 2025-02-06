@@ -45,4 +45,20 @@
    - **Objective**: After evaluating the model, discuss the results with your team to identify areas for improvement in both the classification model and the feature customization approach.
    - **Details**: This task involves collaboration with your teammates to improve the model by refining the classification strategy or adjusting the features for better results.
 
-This summary captures the main objectives and steps for the classification task in your assignment.
+
+
+### **Regression Modeling and Evaluation**
+
+1. **MLP-based Regression Model**
+   - **Objective**: Develop a Multi-Layer Perceptron (MLP)-based regression model using the dataset. The model will map input features, Exercise Amount and Usage Time, to the output, Travel Distance.
+   - **Details**: You need to explain the structure of the MLP regression model in detail. You may also need to decide how to divide the dataset for training and testing purposes.
+
+2. **Model Evaluation**
+   - **Objective**: Evaluate the performance of the MLP regression model.
+   - **Details**: You are required to calculate the R-squared value, plot actual vs. predicted values, plot residuals vs. predicted values, and compute the model's representation error.
+
+3. **Model Evaluation Discussion**
+   - **Objective**: After evaluating the model, discuss the results with your teammates.
+   - **Details**: This task involves reviewing the model's performance with your team and identifying areas for improvement based on the evaluation results.
+
+
