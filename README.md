@@ -1,7 +1,7 @@
 # AI-and-Data-Science-Projects
 The projects in this repository are on machine learning, big data, computer vision, data structure and algorithm.
 # Machine learning: 
-• Implemented a K-Means clustering model to determine optimal vertiport
+Implemented a K-Means clustering model to determine optimal vertiport
 placements in South Korea, leveraging geospatial data to inform decision-making.
 • Developed and evaluated an MLP regression model to predict travel distances
 based on exercise amount and usage time from Seoul City's public bicycle data
