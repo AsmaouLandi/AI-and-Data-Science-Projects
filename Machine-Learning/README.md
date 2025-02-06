@@ -26,3 +26,23 @@
      - Discussion on the ideal number of vertiports without financial constraints.
 
 
+
+### **Classification Modeling and Evaluation (KNN,SVM)**
+
+1. **Data Preprocessing**
+   - **Objective**: Implement a data preprocessing module to create a data pipeline that handles the given dataset for further analysis.
+   - **Details**: This involves preparing the dataset by cleaning it, handling missing values, normalizing or scaling features, and any other preprocessing required for efficient model training.
+
+2. **Model Design**
+   - **Objective**: Design a classification model to analyze the dataset and predict the class labels (Outdoor leakage, Indoor leakage, Noise, Environmental noise, and Normal).
+   - **Details**: In this step, you'll create the model using suitable algorithms and provide an explanation of the model's structure. You may need to customize features from the dataset, as this will influence the model's accuracy and the interpretability of the results.
+
+3. **Model Evaluation**
+   - **Objective**: Evaluate the performance of your model using a confusion matrix.
+   - **Details**: You will calculate the accuracy, precision, and recall of the model. Note that while you can use libraries to implement the classification algorithm, you must write your own code to evaluate the model's performance with the confusion matrix.
+
+4. **Model Improvement Discussion**
+   - **Objective**: After evaluating the model, discuss the results with your team to identify areas for improvement in both the classification model and the feature customization approach.
+   - **Details**: This task involves collaboration with your teammates to improve the model by refining the classification strategy or adjusting the features for better results.
+
+This summary captures the main objectives and steps for the classification task in your assignment.
