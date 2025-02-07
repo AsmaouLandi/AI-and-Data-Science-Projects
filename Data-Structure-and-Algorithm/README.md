@@ -46,7 +46,7 @@
 **Team**:
 - The project will be carried out in teams of 2-3 students, with a focus on dividing tasks equally. The team is required to submit a report and simulation code.
 
-### **Task: Flight Path Optimization Using A* Algorithm**
+### **Task: Flight Path Optimization Using A-star Algorithm**
 - **Problem Statement**: 
   - As a flight dispatcher for Korean Airlines, you are tasked with planning the most efficient route for a pilot traveling from Jeju International Airport to Gimpo International Airport. The pilot requests two options: 
     1. The shortest path under clear weather conditions.
