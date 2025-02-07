@@ -12,11 +12,11 @@
 
 ### **Task 1: Optimize a Continuous Function**
 - **Unconstrained Optimization**: 
-  - Objective: Minimize the function \( f(x) = 2x^4 - 10x^2 + 8x + 5 \) within the range \(-5 \leq x \leq 5\).
+  - Objective: Minimize the function ( f(x) = 2x^4 - 10x^2 + 8x + 5 ) within the range (-5 <= x <= 5).
   - Deliverables: Plot the objective function, choose user-defined parameters (like the crossover rate), design a stopping criterion, and report the optimal design variable and solution.
   
 - **Constrained Optimization**: 
-  - Objective: Minimize the function with the constraint \( x \leq 2 \).
+  - Objective: Minimize the function with the constraint ( x <= 2 ).
   - Deliverables: Plot both the objective function and the constraint, explain how the constraint is considered in the genetic algorithm, and report the optimal design variable and solution.
   - Comparison of the constrained vs. unconstrained optimal points and an explanation of the differences.
 
@@ -63,9 +63,9 @@
 
 - **Weather Conditions**: 
   - Severe weather is modeled using a polygon that defines a restricted area: 
-    \[
-    Polygon = \left([ (126.4, 34.6), (127.1, 34.6), (127.1, 34.2), (126.4, 34.2) ]\right)
-    \]
+    
+    Polygon = ([ (126.4, 34.6), (127.1, 34.6), (127.1, 34.2), (126.4, 34.2) ]
+    
   
 - **Graph Structure**: 
   - The provided graph structure, **Korean Airways**, must be used for this project, and no alternative graph structures are allowed.
